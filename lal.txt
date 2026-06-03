@@ -1,1 +1,1 @@
-python -m label_studio.server
+python -m label_studio.server start (not realated to the project)
